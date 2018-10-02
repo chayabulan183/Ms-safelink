@@ -1,0 +1,2 @@
+# Ms-safelink
+Safe
